@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Ilya Melnik
+HTML CSS Basics: https://www.codecademy.com/users/ilyamelnik/achievements
